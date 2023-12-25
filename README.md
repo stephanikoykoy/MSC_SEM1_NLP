@@ -1,4 +1,10 @@
 # MSC_SEM1_NLP
+#### Project 
+##### Project 1 - Unit 4:
+<b>Text Classification for Fake News Detection<\b>
+##### Project 2 - Unit 9:
+<b>Vector Space Semantics to find Similarity between Eastenders Characters<\b>
+
 #### Unit 2 URL Readings:
 [2.2 Reading: Jurafsky and Martin (3rd ed, online) Chapter 2-2.4 on Regexes and Text Normalisation; Chapter 4 Naive Bayes Classification and Sentiment](https://web.stanford.edu/~jurafsky/slp3/)
 
